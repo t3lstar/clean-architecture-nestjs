@@ -3,3 +3,4 @@ server/dist
 server/coverage
 server/coverage-e2e
 server/test/coverage
+.DS_Store
